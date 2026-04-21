@@ -62,7 +62,7 @@ CC1101 Pin No. Item Direction Description
 7 MISO/GDO1 Output SPI data output pin
 8 GDO2 Output Data output pin
 
-<img width="725" height="353" alt="grafik" src="https://github.com/user-attachments/assets/d4fb42ad-2886-45ce-919f-b4bf6821a55d" />
+<img width="725" height="353" alt="grafik" src="https://github.com/flowjob1/cc1101-transceiver/blob/f9a89d09006f6e9553189d2ca6a32f16fd605a35/cc1101-pin-view.png" />
 
 
 ```
