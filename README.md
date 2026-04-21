@@ -61,6 +61,10 @@ CC1101 Pin No. Item Direction Description
 6 MOSI Input SPI data Input pin
 7 MISO/GDO1 Output SPI data output pin
 8 GDO2 Output Data output pin
+
+<img width="725" height="353" alt="grafik" src="https://github.com/user-attachments/assets/d4fb42ad-2886-45ce-919f-b4bf6821a55d" />
+
+
 ```
 
 | Wire | ESP32 Pin | CC1101 Pin | Function |
