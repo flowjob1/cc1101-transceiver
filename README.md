@@ -51,6 +51,16 @@ Uses separate pins for TX and RX — no mode switching needed.
  │   GPIO2  ├──── Cyan ────┤ GDO2 (RX)    │
  │          │              │              │
  └──────────┘              └──────────────┘
+
+CC1101 Pin No. Item Direction Description
+1 GND Ground
+2 VCC Power supply, 1.8V - 3.6V
+3 GDO0 Output Data output pin
+4 CSN Input Module chip selection pin for starting SPI communication
+5 SCK Input SPI clock pin
+6 MOSI Input SPI data Input pin
+7 MISO/GDO1 Output SPI data output pin
+8 GDO2 Output Data output pin
 ```
 
 | Wire | ESP32 Pin | CC1101 Pin | Function |
